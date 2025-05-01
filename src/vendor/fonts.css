@@ -61,3 +61,10 @@
   src: url("./fonts/roboto-slab-700.woff") format("woff"),
     url("./fonts/roboto-slab-700.woff2") format("woff2");
 }
+
+@font-face {
+  font-family: "Bruce-Forever";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/BruceForeverRegular-X3jd2.ttf") format("truetype");
+}

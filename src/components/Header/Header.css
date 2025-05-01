@@ -1,3 +1,8 @@
 .header__name {
-  color: black;
+  color: yellow;
+  background-color: black;
+  font-family: "Bruce-Forever", sans-serif;
+  font-size: 50px;
+  margin-top: 0;
+  text-align: center;
 }
